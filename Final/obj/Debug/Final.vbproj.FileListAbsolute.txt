@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\Final\Final\bin\Debug\Final.exe.config
+C:\Users\USER\source\repos\Final\Final\bin\Debug\Final.exe
+C:\Users\USER\source\repos\Final\Final\bin\Debug\Final.pdb
+C:\Users\USER\source\repos\Final\Final\bin\Debug\Final.xml
+C:\Users\USER\source\repos\Final\Final\obj\Debug\Final.vbprojAssemblyReference.cache
+C:\Users\USER\source\repos\Final\Final\obj\Debug\Final.Form1.resources
+C:\Users\USER\source\repos\Final\Final\obj\Debug\Final.Resources.resources
+C:\Users\USER\source\repos\Final\Final\obj\Debug\Final.vbproj.GenerateResource.cache
+C:\Users\USER\source\repos\Final\Final\obj\Debug\Final.exe
+C:\Users\USER\source\repos\Final\Final\obj\Debug\Final.xml
+C:\Users\USER\source\repos\Final\Final\obj\Debug\Final.pdb
+C:\Users\USER\source\repos\Final\Final\obj\Debug\Final.Form2.resources
+C:\Users\USER\source\repos\Final\Final\obj\Debug\Final.Form3.resources
